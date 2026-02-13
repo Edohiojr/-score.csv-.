@@ -1,14 +1,14 @@
-#date,score
+date,score
 2026,09/02,98
+2026/10/02,88
+2026/11/02,67
+2026/12/02,90
+2026/13/02,99
 Business Name	Industry	City	Specialty
 Lake Erie Financial Advisors	Financial Services	Cleveland	Retirement and wealth planning
 Forest City Accounting Group	Accounting Services	Cleveland	Small business bookkeeping and tax preparation
-2026/10/02,88
-2026/11/02,67
 Business Name	Industry	City	Specialty
 Buckeye Ledger Partners	Accounting Services	Cleveland	Audit and assurance services
-2026/12/02,90
-2026/13/02,99
 Best Cleveland CPA — Full-service CPA firm helping individuals and small businesses with tax, audit, and accounting needs.
 Laskey Costello, CPA — A locally rooted accounting firm offering tax planning, payroll services, and nonprofit accounting support.
 Accounting Business Services — Provides certified public accountant services focused on tax preparation and financial compliance.
